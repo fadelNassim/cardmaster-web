@@ -1,18 +1,25 @@
 {
-  "productName": "Magical Deals",
+  "productName": "CardMaster",
   "theme": {
-    "isDark": true,
-    "color": "teal"
+    "color": "blue",
+    "isDark": false
   },
   "heroSection": {
     "title": [
-      { "text": "Create the best" },
-      { "text": "App", "isGradient": true },
-      { "text": "in the world" }
+      {
+        "text": "Unleash"
+      },
+      {
+        "text": "Your Strategy",
+        "isGradient": true
+      },
+      {
+        "text": "With CardMaster"
+      }
     ],
-    "description": "Fazzle.ia helps companies expand globally with seamless collaboration, making it easier to build and manage teams in 180+ countries.",
-    "imageUrl": "https://essentials.pixfort.com/saas/wp-content/uploads/sites/3/2020/05/saas-intro-mockup.png",
-    "buttonText": "Get Started"
+    "description": "Step into the world of strategic gaming with CardMaster! Experience card games like never before.",
+    "imageUrl": "https://www.pngplay.com/wp-content/uploads/8/Girl-Yoga-Transparent-File.png",
+    "buttonText": "Start Your Journey"
   },
   "pricing": {
     "settings": {
@@ -160,32 +167,34 @@
       }
     ]
   },
-
   "problemSection": {
     "title": [
-      { "text": "Create the best" },
-      { "text": "Gadget", "isGradient": true },
-      { "text": "in the world" }
+      {
+        "text": "Are you tired"
+      },
+      {
+        "text": "of the same old",
+        "isGradient": true
+      },
+      {
+        "text": "card games?"
+      }
     ],
-    "description": "Make data-driven decisions about where to invest your marketing budget, when to hire, and where there are opportunities for improvement.",
+    "description": "The market is flooded with repetitive and unengaging card games. It's time for a refreshing change.",
     "problem": {
-      "title": "Before Using Databox",
+      "title": "Problems common in most card games",
       "points": [
-        "Data is scattered across multiple tools and teams",
-        "It takes too long to get the information you need",
-        "It's difficult to gain insights from your data",
-        "Decisions are based on intuition and assumptions",
-        "Creating reports manually takes a lot of time"
+        "Lack of innovative gameplay",
+        "Overly complicated with unnecessary rules",
+        "Predictable and lacks replay value"
       ]
     },
     "solution": {
-      "title": "After Using Databox",
+      "title": "How CardMaster addresses these problems",
       "points": [
-        "A centralized source of truth for data",
-        "Your team or clients can access the answers they need instantly",
-        "Clear visibility into company performance",
-        "Better decisions informed by data",
-        "Less time on reporting, more time on strategy"
+        "Offers unique and innovative gameplay",
+        "Easy to learn but hard to master mechanics",
+        "Unpredictable games ensuring high replay value"
       ]
     }
   },
@@ -228,31 +237,67 @@
     "menu": {
       "title": "Menu",
       "items": [
-        { "name": "Home", "route": "/" },
-        { "name": "Services", "route": "/services" },
-        { "name": "Products", "route": "/products" },
-        { "name": "Pricing", "route": "/pricing" }
+        {
+          "name": "Home",
+          "route": "/"
+        },
+        {
+          "name": "Services",
+          "route": "/services"
+        },
+        {
+          "name": "Products",
+          "route": "/products"
+        },
+        {
+          "name": "Pricing",
+          "route": "/pricing"
+        }
       ]
     },
     "resources": {
       "title": "Resources",
       "items": [
-        { "name": "Documentation", "route": "/docs" },
-        { "name": "API Reference", "route": "/api" }
+        {
+          "name": "Documentation",
+          "route": "/docs"
+        },
+        {
+          "name": "API Reference",
+          "route": "/api"
+        }
       ]
     },
     "legal": {
       "title": "Legal Information",
       "items": [
-        { "name": "Privacy Policy", "route": "/privacy" },
-        { "name": "Terms & Conditions", "route": "/terms" }
+        {
+          "name": "Privacy Policy",
+          "route": "/privacy"
+        },
+        {
+          "name": "Terms & Conditions",
+          "route": "/terms"
+        }
       ]
     },
     "socialLinks": [
-      { "name": "facebook", "link": "#" },
-      { "name": "tiktok", "link": "#" },
-      { "name": "vk", "link": "#" },
-      { "name": "dribbble", "link": "#" }
+      {
+        "name": "facebook",
+        "link": "#"
+      },
+      {
+        "name": "tiktok",
+        "link": "#"
+      },
+      {
+        "name": "vk",
+        "link": "#"
+      },
+      {
+        "name": "dribbble",
+        "link": "#"
+      }
     ],
     "copyright": "© 2024 Bekets. All Rights Reserved."
   },
